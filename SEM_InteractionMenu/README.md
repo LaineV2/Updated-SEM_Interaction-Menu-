@@ -1,6 +1,6 @@
-[![Discord](https://semdevelopment.com/img/discord.png)](https://semdevelopment.com/discord)
+[![Discord]](https://discord.gg/K6YYu8Ma)
 
-# SEM_InteractionMenu
+# SEM_InteractionMenu updated by Straya Skids dev Team!
 *Multi Purpose FiveM Interaction Menu*
 
 This resource is a menu with actions for LEO, Fire and Civ including Vehicle Controls and Emotes!
@@ -16,7 +16,7 @@ Current Version: **v1.7.2**
 
 Changes: **• Updated menu**
 
-**THIS UPDATE *ONLY* AFFECTS THE DEPENDENCY NATIVEUI - YOU CAN JUST UPDATE THAT FILE *(NO OTHER FILES WERE CHANGED!)***
+**THIS UPDATE Fixes all issue of SEM Menu!)***
 
 
 ### Links:
