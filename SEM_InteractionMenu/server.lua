@@ -197,7 +197,7 @@ Citizen.CreateThread(function()
 	local currentVersion = GetResourceMetadata(GetCurrentResourceName(), 'version', 0)
 
 	function VersionCheckHTTPRequest()
-		PerformHttpRequest('https://semdevelopment.com/releases/interactionmenu/info/version.json', VersionCheck, 'GET')
+		PerformHttpRequest('https://github.com/LaineV2/Updated-SEM_Interaction-Menu-/blob/main/SEM_InteractionMenu/server.lua', VersionCheck, 'GET')
 	end
 
 	function VersionCheck(err, response, headers)
